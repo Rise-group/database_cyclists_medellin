@@ -1,4 +1,4 @@
-<img src="figs/rise_logo.png" alt="Estructura Carpeta" align="center">
+<img src="figs/rise_logo.png" alt="Estructura Carpeta" align="center">\
 <img src="figs/unal_logo.png" alt="Estructura Carpeta" align="center">\
 \
 ## A database to analyze cycling routes in Medellin, Colombia\
