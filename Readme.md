@@ -1,15 +1,5 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
-{\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
-\margl1440\margr1440\vieww20900\viewh19820\viewkind0
-\deftab720
-\pard\pardeftab720\sl280\partightenfactor0
-
-\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 <img src="figs/rise_logo.png" \cf2 \outl0\strokewidth0 alt="Estructura Carpeta" align="center">\cf2 \outl0\strokewidth0 \strokec2 \
-\pard\pardeftab720\sl280\partightenfactor0
-\cf2 \outl0\strokewidth0 <img src="figs/unal_logo.png" alt="Estructura Carpeta" align="center">\
+<img src="figs/rise_logo.png" alt="Estructura Carpeta" align="center">
+<img src="figs/unal_logo.png" alt="Estructura Carpeta" align="center">\
 \
 ## A database to analyze cycling routes in Medellin, Colombia\
 \
