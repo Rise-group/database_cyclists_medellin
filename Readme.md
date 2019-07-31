@@ -4,7 +4,7 @@
 ## A database to analyze cycling routes in Medellin, Colombia\
 \
 \
-Juan P. Ospina-Zapata<sup>1</sup>, Victor I. Lopez-R\'edos<sup>1</sup>, Veronica Botero-Fernandez<sup>1</sup>, Juan C. Duque<sup>2,3</sup> \
+Juan P. Ospina-Zapata<sup>1</sup>, Victor I. Lopez-Rios<sup>1</sup>, Veronica Botero-Fernandez<sup>1</sup>, Juan C. Duque<sup>2,3</sup> \
 \
 <sup>1</sup> Universidad Nacional de Colombia, Medellin\
 \
@@ -23,7 +23,7 @@ A bicycle route questionnaire was designed to collect information about the cycl
 \
 ```tex\
 @article\{XX,\
-    author = \{Ospina-Zapata,Juan P. AND L\'f3pez-R\'edos, V\'edctor I. AND Botero-Fern\'e1ndez, Ver\'f3nica AND Duque, Juan C.\},\
+    author = \{Ospina-Zapata,Juan P. AND Lopez-Rios, Victor I. AND Botero-Fernandez, Veronica AND Duque, Juan C.\},\
     journal = \{Data in brief\},\
     publisher = \{Elsevier\},\
     title = \{A database to analyze cycling routes in Medellin, Colombia\},\
