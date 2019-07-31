@@ -46,7 +46,7 @@ A bicycle route questionnaire was designed to collect information about the cycl
 
 ## Folders
 
-**Folder** | **Table** | **Figure**
+**Folder** | **File_Name** | **Description**
   ----------------- | ---------------------------- | -----------------------------------------------
-  [Code](Code)| - |-
+  [Code](Code)| Code_Networkx_OSMNx_MEDELLIN OPEN STREET DATA.ipynb | Jupyter Notebook file code to download Medellin’s Street Network from OSMNx
  
