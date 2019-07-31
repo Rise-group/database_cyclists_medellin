@@ -24,7 +24,8 @@ A bicycle route questionnaire was designed to collect information about the cycl
 
 ```tex
 @article{XX,
-    author = {Ospina-Zapata,Juan P. AND López-Ríos, Víctor I. AND Botero-Fernández, Verónica AND Duque, Juan C.},
+    author = {Ospina-Zapata,Juan P. AND López-Ríos, Víctor I. AND Botero-Fernández, 
+                Verónica AND Duque, Juan C.},
     journal = {Data in brief},
     publisher = {Elsevier},
     title = {A database to analyze cycling routes in Medellin, Colombia},
