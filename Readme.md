@@ -1,9 +1,9 @@
-<img src="figs/rise_logo.png" alt="Estructura Carpeta" align="center">\
-<img src="figs/unal_logo.png" alt="Estructura Carpeta" align="center">\
+<img src="figs/rise_logo.png" alt="Estructura Carpeta" align="center">
+<img src="figs/unal_logo.png" alt="Estructura Carpeta" align="center">
 
-## A database to analyze cycling routes in Medellin, Colombia\
-\
-\
+## A database to analyze cycling routes in Medellin, Colombia
+
+
 Juan P. Ospina-Zapata<sup>1</sup>, Victor I. Lopez-Rios<sup>1</sup>, Veronica Botero-Fernandez<sup>1</sup>, Juan C. Duque<sup>2,3</sup> \
 \
 <sup>1</sup> Universidad Nacional de Colombia, Medellin\
