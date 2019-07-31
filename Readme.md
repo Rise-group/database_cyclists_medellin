@@ -15,10 +15,10 @@ Juan P. Ospina-Zapata<sup>1</sup>, Victor I. Lopez-Rios<sup>1</sup>, Veronica Bo
 \
 __maintainer__ = "RiSE Group"  (http://www.rise-group.org/). Universidad EAFIT\
 \
-__Corresponding author__ = jpospinaz@unal.edu.co (JCD)\
-\
-### Abstract \
-\
+__Corresponding author__ = jpospinaz@unal.edu.co (JCD)
+
+### Abstract 
+
 A bicycle route questionnaire was designed to collect information about the cyclists\'92 characteristics as well as the routes they take. Medellin is the case study used in this paper due to its strong socio-demographic inequality, the land use and urban form diversity and the topographical variability that exists within the city. The survey execution targeted bicycle commuters in the city by distributing the questionnaires online, personally by telephone and personally on the street. This data will be useful to support strategies aiming to promote bicycle as a mode of transportation. Several type of analysis may be derived from these data such as: the explanation of factors determining the route choice, route comparisons according to the socio-demographics and location of users, etc.\
 \
 ```tex\
