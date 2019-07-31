@@ -44,10 +44,11 @@ A bicycle route questionnaire was designed to collect information about the cycl
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
-## Folders
+### Folders
 
-**Folder** | **File_Name** | **Description**
-  ----------------- | ---------------------------- | -----------------------------------------------
-  [Code](Code)| Code_Networkx_OSMNx_MEDELLIN OPEN STREET DATA.ipynb | Jupyter Notebook file code to download Medellin’s Street Network from OSMNx
- 
 ## Folder: <span style="color:red">[Code](Code)</span>
+
+**File_Name** | **Description**
+  ---------------------------- | -----------------------------------------------
+  Code_Networkx_OSMNx_MEDELLIN OPEN STREET DATA.ipynb | Jupyter Notebook file code to download Medellin’s Street Network from OSMNx.
+  105_O_start_intersections_INDEX analysis.ipynb; 106_D_end_intersections_INDEX analysis.ipynb | b.	Jupyter Notebook file code for the Origin and Destination variables related to the intersections. 
