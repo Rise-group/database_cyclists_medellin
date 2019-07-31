@@ -4,7 +4,7 @@
 ## A database to analyze cycling routes in Medellin, Colombia\
 \
 \
-Juan P. Ospina-Zapata<sup>1</sup>, V\'edctor I. L\'f3pez-R\'edos<sup>1</sup>, Ver\'f3nica Botero-Fern\'e1ndez<sup>1</sup>, Juan C. Duque<sup>2,3</sup> \
+Juan P. Ospina-Zapata<sup>1</sup>, Victor I. Lopez-R\'edos<sup>1</sup>, Veronica Botero-Fernandez<sup>1</sup>, Juan C. Duque<sup>2,3</sup> \
 \
 <sup>1</sup> Universidad Nacional de Colombia, Medellin\
 \
