@@ -4,7 +4,7 @@
 ## A database to analyze cycling routes in Medellin, Colombia
 
 
-Juan P. Ospina-Zapata<sup>1</sup>, Victor I. Lopez-Rios<sup>1</sup>, Veronica Botero-Fernandez<sup>1</sup>, Juan C. Duque<sup>2,3</sup> \
+Juan P. Ospina-Zapata<sup>1,3</sup>, Victor I. Lopez-Rios<sup>1</sup>, Veronica Botero-Fernandez<sup>1</sup>, Juan C. Duque<sup>2,3</sup> \
 \
 <sup>1</sup> Universidad Nacional de Colombia, Medellin\
 \
@@ -19,7 +19,7 @@ __Corresponding author__ = jpospinaz@unal.edu.co (JPO)
 
 ### Abstract 
 
-A bicycle route questionnaire was designed to collect information about the cyclists\'92 characteristics as well as the routes they take. Medellin is the case study used in this paper due to its strong socio-demographic inequality, the land use and urban form diversity and the topographical variability that exists within the city. The survey execution targeted bicycle commuters in the city by distributing the questionnaires online, personally by telephone and personally on the street. This data will be useful to support strategies aiming to promote bicycle as a mode of transportation. Several type of analysis may be derived from these data such as: the explanation of factors determining the route choice, route comparisons according to the socio-demographics and location of users, etc.
+A bicycle route questionnaire was designed to collect information about the characteristics of cyclists and the routes they take. Medellin is used as a case study in this paper due to its strong sociodemographic inequality, land use, urban form diversity and topographical variability. The survey execution targeted bicycle commuters in the city by distributing the questionnaires online, personally by telephone and personally on the street. These data will be useful to support strategies aiming to promote bicycling as a mode of transportation. Several type of analysis may be derived from the data, including an explanation of the factors determining the route choice and route comparisons according to the sociodemographics and locations of users. For instance, these data have already been used by Ospina et al. (2020) where they sought to understand cycling travel distance in Medellin city.
 
 
 ```tex
